@@ -1,19 +1,30 @@
-👋 Hi, I’m @SamuelESuarezE, currently I'm doing my best to learn about programming and take my english to a higher level at Campuslands.
+👋 Hi, I’m @SamuelESuarezE, currently I'm doing my best to become a skilled programmer and improving my english at Campuslands.
 
 <h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" height="40" alt="html logo"  />
+  <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" height="40" alt="astro logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://astro-build.gallerycdn.vsassets.io/extensions/astro-build/astro-vscode/2.8.5/1711383296608/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="astro logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" height="40" alt="express logo"  />
+  <img width="12" />
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3628940-3030165.png" height="40" alt="nodejs logo"  />
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
