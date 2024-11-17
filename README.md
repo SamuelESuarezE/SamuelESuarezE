@@ -1,4 +1,4 @@
-👋 Hi, I’m @SamuelESuarezE, currently I'm doing my best to become a skilled programmer and improving my english at Campuslands.
+👋 Hi, I’m @SamuelESuarezE, web developer and automation enthusiastic.
 
 <h2 align="left">I code with</h2>
 
