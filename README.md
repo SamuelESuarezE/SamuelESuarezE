@@ -13,6 +13,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+<img src="https://cdn.prod.website-files.com/62865614b39c464b76d339aa/663555c0065bdcced0870641_Nuxt-2.svg" height="40" alt="nuxt logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" height="40" alt="express logo"  />
   <img width="12" />
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" height="40" alt="mongodb logo"  />
